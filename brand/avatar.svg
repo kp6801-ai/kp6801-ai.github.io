@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1080" role="img" aria-label="KP.AI"><defs>
+  <pattern id="g" width="54" height="54" patternUnits="userSpaceOnUse">
+    <path d="M 54 0 L 0 0 0 54" fill="none" stroke="#0B0B0C14" stroke-width="2"/>
+  </pattern></defs>
+  <rect width="1080" height="1080" fill="#FAF8F3"/>
+  <rect width="1080" height="1080" fill="url(#g)"/>
+  
+  <rect x="306.67" y="306.67" width="516.67" height="516.67" rx="133.33" fill="#0B0B0C"/>
+  <rect x="256.67" y="256.67" width="516.67" height="516.67" rx="133.33" fill="#C8F25C" stroke="#0B0B0C" stroke-width="25"/>
+  <circle cx="515" cy="515" r="137.5" fill="#FAF8F3" stroke="#0B0B0C" stroke-width="45.83"/>
+  <circle cx="515" cy="515" r="61.67" fill="#FF7A59" stroke="#0B0B0C" stroke-width="21.67"/></svg>
